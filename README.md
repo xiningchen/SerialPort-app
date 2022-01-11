@@ -1,3 +1,5 @@
+A serial port application for configurating and testing COM 232 ports. 
+
 System requirements: 
 - Python version 3.8.12
 
